@@ -1,5 +1,5 @@
 Menu ITEMS
 
-coke
-bagels
+pepsi
+bread
 crossiant
